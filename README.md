@@ -32,16 +32,6 @@ cd valentines-day-card
 Open the index.html file in a web browser.
 Click on the heart button to see the envelope open and reveal the Valentine's Day message.
 
-# Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository:
-- Create a new branch (git checkout -b feature-branch).
-- Make your changes.
-- Commit your changes (git commit -am 'Add new feature').
-- Push to the branch (git push origin feature-branch).
-- Create a new Pull Request.
-
 # License
 This project is licensed under the MIT License.
 
